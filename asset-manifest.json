@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robosearch/static/css/main.2fe08ecb.chunk.css",
+    "main.js": "/Robosearch/static/js/main.c8db1bd5.chunk.js",
+    "main.js.map": "/Robosearch/static/js/main.c8db1bd5.chunk.js.map",
+    "runtime-main.js": "/Robosearch/static/js/runtime-main.8ebcf444.js",
+    "runtime-main.js.map": "/Robosearch/static/js/runtime-main.8ebcf444.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Robosearch/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.fbad7c07.chunk.js": "/Robosearch/static/js/2.fbad7c07.chunk.js",
+    "static/js/2.fbad7c07.chunk.js.map": "/Robosearch/static/js/2.fbad7c07.chunk.js.map",
+    "index.html": "/Robosearch/index.html",
+    "precache-manifest.b9a19eadfb1de52f35badb02a47376f7.js": "/Robosearch/precache-manifest.b9a19eadfb1de52f35badb02a47376f7.js",
+    "service-worker.js": "/Robosearch/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Robosearch/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.2fe08ecb.chunk.css.map": "/Robosearch/static/css/main.2fe08ecb.chunk.css.map",
+    "static/media/App.css": "/Robosearch/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ebcf444.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.fbad7c07.chunk.js",
+    "static/css/main.2fe08ecb.chunk.css",
+    "static/js/main.c8db1bd5.chunk.js"
+  ]
+}
